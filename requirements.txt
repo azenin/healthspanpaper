@@ -150,7 +150,7 @@ protobuf==3.6.0
 psutil==5.4.8
 ptyprocess==0.6.0
 PubChemPy==1.0.4
-py==1.7.0
+py==1.10.0
 pyasn1==0.4.4
 pybgen==0.6.0
 pycos==4.7.7
