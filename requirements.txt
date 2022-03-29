@@ -128,7 +128,7 @@ packaging==18.0
 pandas==0.23.4
 pandas-plink==1.2.28
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 paratext==0.1.1rc1
 partd==0.3.9
 pathlib2==2.3.3
