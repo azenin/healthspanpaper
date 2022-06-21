@@ -119,7 +119,7 @@ notebook==5.5.0
 numba==0.40.0
 numcodecs==0.5.5
 numexpr==2.6.6
-numpy==1.15.4
+numpy==1.22.0
 openpyxl==2.5.8
 oslo.i18n==3.5.0
 oslo.serialization==2.4.0
