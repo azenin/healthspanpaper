@@ -102,7 +102,7 @@ mdv==1.6.3
 memoized-property==1.0.3
 memory-profiler==0.54.0
 mercurial==3.7.3
-mistune==0.8.3
+mistune==2.0.3
 mock==2.0.0
 monotonic==1.5
 more-itertools==4.3.0
