@@ -146,7 +146,7 @@ progressbar==2.5
 progressbar2==3.38.0
 progressbar33==2.4
 prompt-toolkit==1.0.15
-protobuf==3.6.0
+protobuf==3.18.3
 psutil==5.4.8
 ptyprocess==0.6.0
 PubChemPy==1.0.4
